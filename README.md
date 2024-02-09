@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @agnemaci
+- 👋 Hi, I’m @agnemaci.
 - 👀 I’m interested in Data Analytics.
 - 🌱 I’m currently learning myself all about data :)
 <!---
